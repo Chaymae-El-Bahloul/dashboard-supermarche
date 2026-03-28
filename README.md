@@ -8,7 +8,8 @@ L’objectif principal est de fournir un outil visuel simple et efficace pour ex
 
 ⸻
 
-** Objectifs
+** Objectifs  :
+
 	•	Analyser les ventes de manière interactive
 	•	Identifier les produits les plus performants
 	•	Comprendre le comportement des clients
@@ -17,7 +18,8 @@ L’objectif principal est de fournir un outil visuel simple et efficace pour ex
 
 ⸻
 
-** Fonctionnalités principales
+** Fonctionnalités principales :
+
 	•	Filtres interactifs (ville, produit, paiement, genre, note, mois)
 	•	Indicateurs clés de performance (KPI) :
 	  •	 Ventes totales
@@ -37,7 +39,8 @@ L’objectif principal est de fournir un outil visuel simple et efficace pour ex
 
 ⸻
 
-** Technologies utilisées
+** Technologies utilisées:
+
 	•	Python
 	•	Streamlit
 	•	Pandas
