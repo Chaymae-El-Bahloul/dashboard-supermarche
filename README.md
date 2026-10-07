@@ -7,7 +7,6 @@
 
 Tableau de bord interactif pour explorer les performances commerciales d'un supermarché, repérer les tendances et appuyer la prise de décision par les données.
 
-**Démo en ligne :** [lien vers l'application déployée]
 
 ![Aperçu du dashboard](assets/dashboard_preview.png)
 
