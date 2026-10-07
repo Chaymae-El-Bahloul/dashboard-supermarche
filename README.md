@@ -142,4 +142,4 @@ L'application s'ouvre sur `http://localhost:8501`.
 
 ## Auteur
 
-**[Ton nom]** : [LinkedIn](https://linkedin.com/in/...) · [GitHub](https://github.com/...)
+**[Chaymae El Bahloul]** : [LinkedIn](https://www.linkedin.com/in/chaymae-el-bahloul)) · [GitHub](https://github.com/...)
